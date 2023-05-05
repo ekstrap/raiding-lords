@@ -6,9 +6,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={"google.com"} className="App-logo" alt="logo" />
         <p>
-          Anton er en abe
+          Krag har en mikrodiller
         </p>
         <a
           className="App-link"
@@ -24,3 +24,4 @@ function App() {
 }
 
 export default App;
+
